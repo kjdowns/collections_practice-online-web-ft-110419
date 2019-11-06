@@ -12,7 +12,7 @@ def sort_array_char_count(array)
 end
 
 def swap_elements_from_to(array, index, dest_index)
-  array[index], array[dest_index] = array[dest_index], array[index]
+  array[index],array[dest_index]=array[dest_index],array[index]
 end
 
 def swap_elements(array)
